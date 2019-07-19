@@ -1,0 +1,37 @@
+---
+title: "Statistics. Everyone should know this."
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+####  Statistics review
+This is a list of useful publication on statistics.
+
+[Statistics review 1: Presenting and summarising data](https://doi.org/10.1186/cc1455) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc1455)
+
+[Statistics review 2: Samples and populations](https://doi.org/10.1186/cc1473) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc1473)
+
+[Statistics review 3: Hypothesis testing and P values](https://doi.org/10.1186/cc1493) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc1493)
+
+[Statistics review 5: Comparison of means](https://doi.org/10.1186/cc1548) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc1548)
+
+[Statistics review 6: Nonparametric methods](https://doi.org/10.1186/cc1820) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc1820)
+
+[Statistics review 7: Correlation and regression](https://doi.org/10.1186/cc2401) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc2401)
+
+[Statistics review 8: Qualitative data – tests of association](https://doi.org/10.1186/cc2428) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc2428)
+
+[Statistics review 9: One-way analysis of variance](https://doi.org/10.1186/cc2836) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc2836)
+
+[Statistics review 10: Further nonparametric methods](https://doi.org/10.1186/cc2857) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc2857)
+
+[Statistics review 11: Assessing risk](https://doi.org/10.1186/cc2908) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc2908)
+
+[Statistics review 12: Survival analysis](https://doi.org/10.1186/cc2955) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc2955)
+
+[Statistics review 13: Receiver operating characteristic curves](https://doi.org/10.1186/cc3000) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc3000)
+
+[Statistics review 14: Logistic regression](https://doi.org/10.1186/cc3045) [pdf](https://ccforum.biomedcentral.com/track/pdf/10.1186/cc3045)
