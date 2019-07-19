@@ -7,6 +7,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![Рисунок 1.](eskt.jpg)
+
 ####  Statistics review
 This is a list of useful publication on statistics.
 
